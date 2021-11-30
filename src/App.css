@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #b6ceff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -28,6 +28,24 @@
   color: #61dafb;
 }
 
+.student-info{
+  border-radius: 20px;
+  margin-bottom: 7rem;
+  background-color: rgb(57, 70, 70);
+}
+
+.cityDisplay{
+  border-radius: 20px;
+  margin-bottom: 3rem;
+  background-color: rgb(57, 70, 70);
+}
+
+.desc{
+  background-color: darkslategrey;
+  border-radius: 20px;
+  margin-bottom: 2rem;
+  background-color: rgb(57, 70, 70);
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
